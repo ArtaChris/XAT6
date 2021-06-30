@@ -1,0 +1,1 @@
+Arduino-based single or double eeprom programmer. Intel 8086 uses two eeproms for even and odd addresses in memory. This programmer will both parse and separate the appropriate instructions of a program and burn them into eeproms.
